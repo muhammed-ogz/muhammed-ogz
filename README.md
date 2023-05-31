@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JavaScript, EtnaScript SQL and Python.**
 
-- 👨‍💻 All of my projects are available at [my github...](my github...)
-
 - 💬 Ask me about **CSS**
 
 - 📫 How to reach me **muhammednabioguz@gmail.com**
