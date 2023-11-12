@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhammedogz_" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedogz_?logo=twitter&style=for-the-badge" alt="muhammedogz_" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, EtnaScript SQL and Python.**
+- 🌱 I’m currently learning **JavaScript, EtnaScript SQL and Python. ( And PHP Laravel ._. )**
 
 - 💬 Ask me about **CSS**
 
