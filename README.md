@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammednabioguz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammednabioguz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muhammedogz_" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedogz_?logo=twitter&style=for-the-badge" alt="muhammedogz_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muhammedogz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammedogz_" height="30" width="40" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, EtnaScript SQL and Python. ( and unfortunately PHP laravel .\_. )**
+- 🌱 I’m currently learning **JavaScript, EtnaScript SQL and Python. ( and unfortunately PHP laravel ._. )**
 
 - 💬 Ask me about **nodeJS**
 
