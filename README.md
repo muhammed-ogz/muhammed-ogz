@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on a **web backend technologies**
 - 🔭I want to improve myself on **embedded systems** and **network technologies** in the future.
 
-- 📫 How to reach me **muhammednabioguz@gmail.com** , **muhammednabioguz@gmail.com** and **muhammednabioguz@outlook.com**
+- 📫 How to reach me **muhammetnabioguz@gmail.com** , **muhammednabioguz@gmail.com** and **muhammednabioguz@outlook.com**
 
 - ⚡ Yes, **I'm slower than a floppy disk :')**
 
