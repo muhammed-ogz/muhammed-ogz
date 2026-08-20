@@ -1,124 +1,235 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=8B8B8D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;FullStack+Developer+%7C+Mobile+Developer;Always+learning+something+new..." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h2 align="center">Middle FullStack & Junior Mobile Developer at Venosa Studio</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammed%20O%C4%9Fuz&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=FullStack%20%C2%B7%20Mobile%20%C2%B7%20Infrastructure&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
-<p align="center">
-    <a href="https://github.com/muhammed-ogz?tab=repositories">
-        <img src="https://img.shields.io/badge/GitHub-2D3748?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/muhammed-ogz/">
-        <img src="https://img.shields.io/badge/LinkedIn-4A5568?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:muhammedoguz@venosastudio.com">
-        <img src="https://img.shields.io/badge/Email-718096?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammed-ogz&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-## 🚀 About Me
-
-- 💼 Currently working as a **FullStack Developer** at **Venosa Studio**
-- 🌱 Focused on **ReactJS**, **NodeJS**, and **React Native** development
-- 🔧 Experienced in **server management** and **database administration**
-- 🎯 Passionate about creating scalable web and mobile applications
-- 📱 Building cross-platform mobile apps with **React Native**
-- 🔭 Looking to expand expertise in **embedded systems** and **network technologies**
-
-## 💻 Tech Stack
-
-### Frontend Development
-
-<p>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<a href="https://github.com/muhammed-ogz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&multiline=false&width=700&height=45&lines=FullStack+Developer+%40+Venosa+Studio;React+%7C+Node.js+%7C+React+Native+%7C+Laravel;Server+Management+%26+Database+Administration;Always+shipping%2C+always+learning..." alt="Typing SVG" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammed-ogz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:muhammedoguz@venosastudio.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/muhammedogz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/muhammed-ogz?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=muhammed-ogz&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile views" />
+<a href="https://github.com/muhammed-ogz?tab=followers"><img src="https://img.shields.io/github/followers/muhammed-ogz?label=Followers&style=flat-square&color=36BCF7&labelColor=0f2027" alt="Followers" /></a>
+<img src="https://img.shields.io/badge/Focus-Scalable%20Web%20%26%20Mobile-36BCF7?style=flat-square&labelColor=0f2027" alt="Focus" />
+<img src="https://img.shields.io/badge/Based%20in-T%C3%BCrkiye-36BCF7?style=flat-square&labelColor=0f2027" alt="Location" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:36BCF7,100:0f2027&height=3&section=header" width="100%" alt="divider" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" /> whoami
+
+```typescript
+const muhammed: Developer = {
+  role: "Middle FullStack & Junior Mobile Developer",
+  company: "Venosa Studio",
+  code: ["TypeScript", "JavaScript", "PHP", "SQL"],
+  stack: {
+    frontend: ["React", "Next.js", "TailwindCSS"],
+    backend:  ["Node.js", "Express", "Laravel"],
+    mobile:   ["React Native", "Expo", "Swift"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "MSSQL"],
+    devops:   ["Linux", "Nginx", "Docker", "CI/CD"],
+  },
+  currentFocus: "Scalable cross-platform products",
+  learning: ["Embedded Systems", "Network Technologies"],
+  philosophy: "Build it simple, ship it fast, scale it right.",
+};
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I do
+
+- Design and build **full-stack web applications** end to end
+- Ship **cross-platform mobile apps** with React Native
+- Manage **production servers**, deployments and uptime
+- Administer and optimize **relational + NoSQL databases**
+- Turn messy requirements into clean, maintainable architecture
+
+</td>
+<td width="50%" valign="top">
+
+### What's next
+
+- Deepening **embedded systems** knowledge
+- Exploring **network technologies** and protocols
+- Writing more **typed, testable** production code
+- Contributing to **open source** projects
+- Sharing what I learn along the way
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:36BCF7,100:0f2027&height=3&section=header" width="100%" alt="divider" />
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,bun,graphql&theme=dark" alt="backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&theme=dark" alt="database" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,expo,swift,androidstudio,figma&theme=dark" alt="mobile" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,vscode,postman&theme=dark" alt="devops" />
+
+</div>
+
+<details>
+<summary><b>📋 Detailed breakdown — click to expand</b></summary>
+
+<br/>
+
+| Layer | Technologies | Level |
+| :--- | :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | `██████████` Advanced |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | `█████████░` Advanced |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) | `███████░░░` Intermediate |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | `█████████░` Advanced |
+| **Infra / DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | `████████░░` Proficient |
+| **Exploring** | ![Arduino](https://img.shields.io/badge/Embedded-00979D?style=flat-square&logo=arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | `████░░░░░░` Learning |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:36BCF7,100:0f2027&height=3&section=header" width="100%" alt="divider" />
+
+## 🏢 Work at <a href="https://github.com/venosa-studio">Venosa Studio</a>
+
+<div align="center">
+<a href="https://github.com/venosa-studio"><img src="https://img.shields.io/badge/Organization-venosa--studio-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" alt="Venosa Studio" /></a>
+<img src="https://img.shields.io/badge/Repositories-Private-6E7681?style=for-the-badge&logo=lock&logoColor=white&labelColor=0f2027" alt="Private repositories" />
+</div>
+
+<br/>
+
+### 🚀 In-house Products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Vendevu** &nbsp; ![B2C](https://img.shields.io/badge/B2C-36BCF7?style=flat-square&labelColor=0f2027)
+
+Smart appointment and booking system. A B2C platform that lets businesses manage their scheduling end to end.
+
+</td>
+<td width="50%" valign="top">
+
+**Kube10** &nbsp; ![DevOps](https://img.shields.io/badge/DevOps-36BCF7?style=flat-square&labelColor=0f2027)
+
+A graphical interface for Kubernetes — cluster management and monitoring without living in the terminal.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Yurtpusula** &nbsp; ![SaaS](https://img.shields.io/badge/SaaS-36BCF7?style=flat-square&labelColor=0f2027)
+
+Digital dormitory management platform. Handles residents, rooms, payments and day-to-day operations.
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+### 🤝 Client Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Tash Coffee** &nbsp; ![Delivered](https://img.shields.io/badge/Delivered-3FB950?style=flat-square&labelColor=0f2027)
+
+Full coffee-shop system: POS, staff management, and a Starbucks-style mobile ordering app. Led the entire development cycle — planning, design, frontend and backend — with a three-person team.
+
+`React Native` · `Node.js` · `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**Kurtaş** &nbsp; ![Delivered](https://img.shields.io/badge/Delivered-3FB950?style=flat-square&labelColor=0f2027)
+
+Custom CRM built for a CNC manufacturing company, covering their sales pipeline and customer operations.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:36BCF7,100:0f2027&height=3&section=header" width="100%" alt="divider" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=muhammed-ogz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=muhammed-ogz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-ogz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="100%" alt="Contribution Graph" />
+
+</div>
+
+<details>
+<summary><b>🐍 Watch the snake eat my contributions</b></summary>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammed-ogz/muhammed-ogz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammed-ogz/muhammed-ogz/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammed-ogz/muhammed-ogz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:36BCF7,100:0f2027&height=3&section=header" width="100%" alt="divider" />
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:36BCF7,100:0f2027&height=3&section=header" width="100%" alt="divider" />
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+I'm open to collaborating on **web platforms**, **mobile apps** and **backend systems**.<br/>
+Got an idea, a project, or just want to talk shop? My inbox is always open.
+
+<br/>
+
+<a href="mailto:muhammedoguz@venosastudio.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-muhammedoguz@venosastudio.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<a href="https://www.linkedin.com/in/muhammed-ogz/">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a>
-</p>
 
-### Backend Development
+<br/><br/>
 
-<p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a>
-</p>
+<i>"Build it simple, ship it fast, scale it right."</i>
 
-### Database Management
+</div>
 
-<p>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a>
-</p>
-
-### Mobile Development
-
-<p>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a>
-</p>
-
-## 🤝 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammed-ogz/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-ogz" height="30" width="40" />
-</a>
-<a href="https://instagram.com/muhammedogz_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammedogz_" height="30" width="40" />
-</a>
-</p>
-
-## 📧 Contact
-
-Feel free to reach out to me at: **muhammedoguz@venosastudio.com**
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammed-ogz&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Muhammed's+GitHub+Stats" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-ogz&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ogz&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammed-ogz&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" width="100%" alt="footer" />
