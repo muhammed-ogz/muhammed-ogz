@@ -136,13 +136,6 @@ Digital dormitory management platform. Handles residents, rooms, payments and da
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**Kube10** &nbsp; ![DevOps](https://img.shields.io/badge/DevOps-36BCF7?style=flat-square&labelColor=0f2027)
-
-A graphical interface for Kubernetes — cluster management and monitoring without living in the terminal.
-
-</td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
