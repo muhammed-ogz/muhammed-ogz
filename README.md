@@ -129,18 +129,18 @@ Smart appointment and booking system. A B2C platform that lets businesses manage
 </td>
 <td width="50%" valign="top">
 
-**Kube10** &nbsp; ![DevOps](https://img.shields.io/badge/DevOps-36BCF7?style=flat-square&labelColor=0f2027)
+**Yurtpusula** &nbsp; ![SaaS](https://img.shields.io/badge/SaaS-36BCF7?style=flat-square&labelColor=0f2027)
 
-A graphical interface for Kubernetes — cluster management and monitoring without living in the terminal.
+Digital dormitory management platform. Handles residents, rooms, payments and day-to-day operations.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Yurtpusula** &nbsp; ![SaaS](https://img.shields.io/badge/SaaS-36BCF7?style=flat-square&labelColor=0f2027)
+**Kube10** &nbsp; ![DevOps](https://img.shields.io/badge/DevOps-36BCF7?style=flat-square&labelColor=0f2027)
 
-Digital dormitory management platform. Handles residents, rooms, payments and day-to-day operations.
+A graphical interface for Kubernetes — cluster management and monitoring without living in the terminal.
 
 </td>
 <td width="50%" valign="top"></td>
@@ -177,7 +177,6 @@ Custom CRM built for a CNC manufacturing company, covering their sales pipeline 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=muhammed-ogz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=muhammed-ogz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Top Languages" />
 
 <br/>
 
